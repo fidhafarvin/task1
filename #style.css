@@ -1,0 +1,12 @@
+h1{
+    color:red;
+}
+div p{
+    background-color: aquamarine;
+}
+div~p{
+    background-color: brown;
+}
+img{
+    opacity: 0.2;
+}
